@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, this is Yılmaz 👋
+I'm a new graduate **frontend developer** living in **İstanbul, Turkey**. I :heart: **JavaScript**. I always try to keep myself up to date and share what I learned.
 
-<!--
-**yilmazcakmakci/yilmazcakmakci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Interests
+- React
+- Next.js
+- React Native
+- Vue
 
-Here are some ideas to get you started:
+#### Social
+ - [Twitter](https://twitter.com/yilmazdev)
+ - [Linkedin](https://linkedin.com/in/yilmazcakmakci)
+ - [Medium](https://medium.com/@yilmazcakmakci)
+ - [Personal Web Site](https://yilmazc.com)
+ - [Email](mailto:cakmakcy@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:rocket: If you want to contact me, you could feel free to send email or DM.
