@@ -8,10 +8,10 @@ I'm a new graduate **frontend developer** living in **İstanbul, Turkey**. I :he
 - Vue
 
 #### Social
- - [Twitter](https://twitter.com/yilmazdev)
- - [Linkedin](https://linkedin.com/in/yilmazcakmakci)
- - [Medium](https://medium.com/@yilmazcakmakci)
- - [Personal Web Site](https://yilmazc.com)
- - [Email](mailto:cakmakcy@gmail.com)
+[Twitter](https://twitter.com/yilmazdev) ·
+[Linkedin](https://linkedin.com/in/yilmazcakmakci) ·
+[Medium](https://medium.com/@yilmazcakmakci) ·
+[Personal Web Site](https://yilmazc.com) ·
+[Email](mailto:cakmakcy@gmail.com)
 
 :rocket: If you want to contact me, you could feel free to send email or DM.
