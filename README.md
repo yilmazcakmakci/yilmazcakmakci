@@ -1,5 +1,5 @@
 ### Hello, this is Yılmaz 👋
-I'm a new graduate **frontend developer** living in **İstanbul, Turkey**. I love **JavaScript**. I always try to keep myself up to date and share what I learned.
+I'm a **frontend developer** living in **İstanbul, Turkey**. I love **JavaScript**. I always try to keep myself up to date and share what I learned.
 
 #### Interests
 - React
