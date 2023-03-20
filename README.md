@@ -4,7 +4,6 @@ I'm a **frontend developer** living in **İstanbul, Turkey**. I love **JavaScrip
 #### Interests
 - React
 - Next.js
-- React Native
 - Vue
 
 #### Social
