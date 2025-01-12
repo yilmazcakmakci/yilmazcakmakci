@@ -11,6 +11,6 @@ I'm a **frontend developer** living in **İstanbul, Turkey**. I love **JavaScrip
 [Linkedin](https://linkedin.com/in/yilmazcakmakci) ·
 [Medium](https://medium.com/@yilmazcakmakci) ·
 [Personal Web Site](https://yilmazc.com) ·
-[Email](mailto:cakmakcy@gmail.com)
+[Email](mailto:me@yilmazc.com)
 
 :rocket: If you want to contact me, you could feel free to send email or DM.
