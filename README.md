@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=yilmazcakmakci&style=plastik&color=295F98&abbreviated=true)
-
 ### Hello, this is Yılmaz 👋
 I'm a **frontend developer** living in **İstanbul, Turkey**. I love **JavaScript**. I always try to keep myself up to date and share what I learned.
 
